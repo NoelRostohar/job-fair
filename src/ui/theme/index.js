@@ -12,7 +12,6 @@ const theme = {
   styles: {
     root: {
       backgroundColor: '#FAFAFA',
-      pl: '280px',
     },
   },
 };
