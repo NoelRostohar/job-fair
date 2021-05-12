@@ -13,11 +13,11 @@ const FloatingButton = () => {
         right: 8,
         borderRadius: '50%',
         backgroundColor: 'supernova',
-        p: 6,
+        p: 5,
         filter: 'drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1))',
       }}
     >
-      <Icon icon="add" size="l" />
+      <Icon icon="add" size="m" />
     </FlexLayout>
   );
 };
