@@ -22,13 +22,5 @@ module.exports = {
   },
   rules: {
     // Place to specify ESLint rules. Can be used to overwrite rules specified from the extended configs
-    'simple-import-sort/imports': 'error',
-    'simple-import-sort/exports': 'error',
-    'react/jsx-sort-props': [
-      'error',
-      {
-        callbacksLast: true,
-      },
-    ],
   },
 };
